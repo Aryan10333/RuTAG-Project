@@ -1,3 +1,3 @@
 # RuTAG-Project
-Smart vending cart
+Smart vending cart\n
 Autodesk inventor files
